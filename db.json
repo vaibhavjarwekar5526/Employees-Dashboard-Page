@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "name": "Vaibhav",
+      "department": "Hr",
+      "gender": "Male",
+      "role": "Engineer",
+      "salary": "70,000",
+      "id": 1
+    },
+    {
+      "name": "Guari",
+      "department": "Hr",
+      "gender": "Female",
+      "role": "Engineer",
+      "salary": "40,000",
+      "id": 2
+    },
+    {
+      "name": "Harsh",
+      "department": "Servant",
+      "gender": "Male",
+      "role": "Hamal",
+      "salary": "500",
+      "id": 3
+    },
+    {
+      "name": "Yogesh",
+      "department": "Cyber Security",
+      "gender": "Male",
+      "role": "Analyst",
+      "salary": "60,000",
+      "id": 4
+    }
+  ]
+}
